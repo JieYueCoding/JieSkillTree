@@ -10,6 +10,7 @@
 
 **2005年，[安德鲁·垂鸠](https://zh.wikipedia.org/wiki/%E5%AE%89%E5%BE%B7%E9%AD%AF%C2%B7%E5%9E%82%E9%B3%A9)写了一个简单程序，可以连接BitKeeper的存储库，BitKeeper著作权拥有者[拉里·麦沃伊](https://zh.wikipedia.org/wiki/%E6%8B%89%E9%87%8C%C2%B7%E9%BA%A5%E6%B2%83%E4%BC%8A)认为安德鲁·垂鸠对BitKeeper内部使用的[协议](https://zh.wikipedia.org/wiki/%E7%BD%91%E7%BB%9C%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE)进行[逆向工程](https://zh.wikipedia.org/wiki/%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B)，决定收回无偿使用BitKeeper的许可。Linux内核开发团队与BitMover公司进行磋商，但无法解决他们之间的歧见。林纳斯·托瓦兹决定自行开发版本控制系统替代BitKeeper，以十天的时间编写出git第一个版本[[16\]](https://zh.wikipedia.org/wiki/Git#cite_note-16)[[17\]](https://zh.wikipedia.org/wiki/Git#cite_note-17)。**
 
-
 #### Git的作用
+
+
 
